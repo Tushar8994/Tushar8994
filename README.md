@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tushar8994
-- 👀 I’m interested in web designing ,Spending more time in front of laptop is much famaliar for me. I much aware of how tough is the coding when don't get the desire output.  
+- 👀 I’m interested in web development ,Spending more time in front of laptop is much famaliar for me. I much aware of how tough is the coding when don't get the desire output.  
 - 🌱 I’m currently learning B.tech
 - 💞️ I’m looking to collaborate on some interesting projects for designing a website
 - 📫 How to reach me 
